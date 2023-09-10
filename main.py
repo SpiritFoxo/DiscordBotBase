@@ -89,4 +89,4 @@ async def on_command_error(ctx, error):
 
 
 if __name__ == '__main__':
-    client.run("MTEzNjk5OTUyODc5NzU4MTM0Mg.G1tOBy.sGGAjvgxW_ZlTnUREM76Lc53winVcqz4PcFE6Y")
+    client.run("MyCoolTokenHere")
